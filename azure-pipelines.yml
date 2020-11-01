@@ -23,7 +23,7 @@ steps:
     restoreSolution: '$(solution)'
 
 -
-  inputs:
+  
     platform: 'x64'
     solution: '$(solution)'
     configuration: '$(buildConfiguration)'
