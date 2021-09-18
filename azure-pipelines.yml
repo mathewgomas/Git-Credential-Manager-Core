@@ -1,4 +1,8 @@
 # Universal Windows Platform
+- task: VisualStudioTestPlatformInstaller@1
+  inputs:
+    packageFeedSelector: 'nugetOrg'
+    versionSelector: 'latestPreRelease'
 # Build a Universal Windows Platform project using Visual Studio.
 
 # https://aka.ms/yaml
