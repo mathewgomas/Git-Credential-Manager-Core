@@ -6,7 +6,6 @@
 # Build a Universal Windows Platform project using Visual Studio.
 
 # https://aka.ms/yaml
-
 trigger:
 - master
 
